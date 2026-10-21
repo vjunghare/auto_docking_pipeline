@@ -1,0 +1,9 @@
+__pycache__/
+*.py[cod]
+*.asv
+.DS_Store
+Thumbs.db
+.vscode/
+outputs_all/
+first_complex_pdbs/
+dock_output/

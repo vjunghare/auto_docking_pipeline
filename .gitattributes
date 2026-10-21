@@ -1,0 +1,4 @@
+*.sh text eol=lf
+config.txt text eol=lf
+vina_files/vina binary
+vina_files/vina_split binary
